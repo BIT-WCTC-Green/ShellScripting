@@ -1,0 +1,1 @@
+echo thisi is a bash script
